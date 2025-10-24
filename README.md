@@ -24,7 +24,7 @@ road-accident-data-analysis/
 ├── datasets.zip
 ├── road_accident_analysis.py
 └── README.md
-
+```
 ---
 
 ## How to Run
