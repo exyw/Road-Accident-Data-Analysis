@@ -19,8 +19,8 @@ All logic is implemented in a single Python file: `road_accident_analysis.py`.
 ---
 
 ## Project Structure
+```bash
 road-accident-data-analysis/
-│
 ├── datasets.zip
 ├── road_accident_analysis.py
 └── README.md
